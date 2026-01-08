@@ -1,1 +1,20 @@
-Hi! I'm Dark (@DarkCookieSF), an idiot who likes to make random stuff. I'm intrested in programing. I'm currently trying to learn VB.NET, C#, and Python. I want to collaborate mostly on my Dual98 repository, a dual boot of Windows 98 first and second edition. My favorite animal is a turtle and my favorite color is sky blue 🔵. I'm still in school so don't expect much out of me. I am called annoying daily and people repeat how unfunny I am.
+# heyo! i'm dark!
+
+i'm pretty chill, heres some stuff about me tho!
+
+pronouns: he/him
+
+things about me:
+* adhd
+* christian
+
+learning:
+* cybersecurity
+* computer science
+* computer engineering
+* engineering
+* software engineering
+
+coding languages:
+* vb.net
+* python
